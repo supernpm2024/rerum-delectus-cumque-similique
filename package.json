@@ -1,18 +1,89 @@
 {
-  "name": "@utilcode/simple-template-advanced",
+  "name": "@supernpm2024/rerum-delectus-cumque-similique",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
   "license": "MIT",
+  "dependencies": {
+    "@supernpm2024/at-quidem-repellat-iusto": "^1.0.0",
+    "@supernpm2024/commodi-odit-eius-nostrum": "^1.0.0",
+    "@supernpm2024/cupiditate-sed-aliquam-quae": "^1.0.0",
+    "@supernpm2024/dignissimos-accusamus-libero-cumque": "^1.0.0",
+    "@supernpm2024/dolor-distinctio-nisi-cupiditate": "^1.0.0",
+    "@supernpm2024/fugiat-natus-quia-vitae": "^1.0.0",
+    "@supernpm2024/in-illo-perferendis-temporibus": "^1.0.0",
+    "@supernpm2024/labore-repudiandae-dolorem-in": "^1.0.0",
+    "@supernpm2024/laboriosam-ipsam-assumenda-maiores": "^1.0.0",
+    "@supernpm2024/laudantium-delectus-ipsam-sit": "^1.0.0",
+    "@supernpm2024/legendary-broccoli": "^1.0.0",
+    "@supernpm2024/maiores-magni-harum-dolores": "^1.0.0",
+    "@supernpm2024/modi-consequuntur-mollitia-nesciunt": "^1.0.0",
+    "@supernpm2024/modi-quod-recusandae-placeat": "^1.0.0",
+    "@supernpm2024/molestiae-vitae-labore-voluptatibus": "^1.0.0",
+    "@supernpm2024/officia-eum-pariatur-temporibus": "^1.0.0",
+    "@supernpm2024/praesentium-ipsa-odio-ullam": "^1.0.0",
+    "@supernpm2024/quis-ab-laboriosam-veniam": "^1.0.0",
+    "@supernpm2024/similique-occaecati-laborum-saepe": "^1.0.0",
+    "@supernpm2024/sunt-blanditiis-totam-eos": "^1.0.0",
+    "@supernpm2024/tenetur-tempore-ex-illo": "^1.0.0",
+    "@supernpm2024/unde-delectus-corporis-commodi": "^1.0.0",
+    "@supernpm2024/voluptate-eos-animi-nobis": "^1.0.0",
+    "@supernpm2024/voluptatem-eius-officia-voluptatem": "^1.0.0"
+  },
+  "devDependencies": {
+    "@jscad/sample-files": "github:jscad/sample-files#master",
+    "ava": "3.15.0",
+    "docdash": "1.2.0",
+    "jsdoc": "3.6.10",
+    "lerna": "4.0.0",
+    "nyc": "15.1.0",
+    "standardx": "7.0.0",
+    "tsd": "0.19.1"
+  },
+  "collective": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/openjscad",
+    "logo": "https://opencollective.com/openjscad/logo.txt"
+  },
+  "standardx": {
+    "ignore": [
+      "**/dist/",
+      "**/old/",
+      "**/ui/csg-viewer",
+      "**/io/scad-deserializer",
+      "**/io/gcode-deserializer"
+    ],
+    "env": {
+      "browser": true,
+      "node": true
+    }
+  },
+  "eslintConfig": {
+    "rules": {
+      "func-style": [
+        "error",
+        "expression"
+      ],
+      "arrow-body-style": [
+        "error",
+        "as-needed"
+      ],
+      "arrow-parens": [
+        "error",
+        "always"
+      ],
+      "arrow-spacing": "error",
+      "prefer-arrow-callback": "error",
+      "no-var": "error"
+    }
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/supernpm2024/rerum-delectus-cumque-similique.git"
   },
-  "dependencies": {
-    "axios": "^1.6.8"
-  }
+  "homepage": "https://github.com/supernpm2024/rerum-delectus-cumque-similique/#readme",
+  "bugs": {
+    "url": "https://github.com/supernpm2024/rerum-delectus-cumque-similique/issues"
+  },
+  "author": "ellentea",
+  "packageManager": "yarn@4.1.1"
 }
